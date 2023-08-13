@@ -6,8 +6,24 @@ This project identified the genetic basis for the *mtk50f* mutation in *Vangl2* 
 ![image](https://github.com/odumosuo/zebrafish_mutation/assets/111093025/74938886-d0df-40a7-8ec0-fac15cd9ca86)
 
 ## How to run
-To run the pipeline analysis, follow the instructions in Code_document_alignment_pairedend.sh
+To run the pipeline analysis, follow the instructions in Code_document_alignment_pairedend.sh, Code_doument_Variant_calling.sh, and Code_document_annotation.sh.
 
 ## Features
+zebrafish
+mRNA
+mtk50f
+m209
+m747
+BWA
+BCFtools mpileup
+Freebayes
+SnpEff
+Integrated Genome Viewer (IGV)
+Wnt signalling
+Transcription
+Neural tube defect
 
 ## Dataset 
+The zebrafish reference genome used in this dataset can be found at NCBI here: https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000002035.6/
+
+The fastq files were gotten from research done at the Van Raay Lab: https://vanraaylab.uoguelph.ca/
