@@ -5,7 +5,7 @@ This project identified the genetic basis for the *mtk50f* mutation in *Vangl2* 
 
 ![image](https://github.com/odumosuo/zebrafish_mutation/assets/111093025/74938886-d0df-40a7-8ec0-fac15cd9ca86)
 
-## Report
+## Research Paper
 Report.pdf
 
 ## How to run
